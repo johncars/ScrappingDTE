@@ -18,6 +18,6 @@ pytz==2019.3
 requests==2.22.0
 six==1.14.0
 soupsieve==2.0
-urllib3==1.25.8
+urllib3==1.26.5
 vaderSentiment==3.2.1
 wrapt==1.11.2
